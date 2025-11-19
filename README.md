@@ -1,14 +1,25 @@
-# Exercise-05c-LightsAndMaterials
+# \# Project 5
 
+# \## Implementation / Features you added
 
+* # All base features
+* Extra features:
+* Music
+* Sound effects
+* Fog
+* Flashlight
+* Different enemy model
+* More polished game start menu
 
-## Implementation
+# \## References
 
-## References
+# N/A
 
-## Future Development
+# \## Future Development
 
-## Created by
+# N/A
+
+# \## Created by
 
 Scott Trout
 
